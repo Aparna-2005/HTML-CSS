@@ -1,0 +1,50 @@
+body{
+    /* background-image:linear-gradient(to down,pink,cyan); */
+    /* background-image:radial-gradient(pink 50%,cyan, blue) */
+    /* background-image:conic-gradient(pink, cyan, blue,pink,blue); */
+
+}
+    h6{
+    border:5px solid;
+    border-radius: 5px;
+    border-color:green;
+    font:calibri;
+    font-size:23px;
+    width:200px
+}
+.para{
+    font-family:cambria;
+    font-size:20px;
+}
+.para1{
+    color:brown;
+    width:500px;
+    /* border-radius: 25px 50px; */
+    border: 3px solid  red;
+    margin:20px;
+}
+#name{
+    font-family:cambria;
+    font-size:20px;
+    color:brown;
+}
+h4,h5{
+    font-family:cambria;
+    font-size:20px;
+    color:brown;
+}
+/* div{
+    border-radius: 50px;
+    width:100px;
+    height:150px;
+    background-image:radial-gradient(pink 50%,cyan, blue);
+} */
+
+.head_color{
+    /* text-align:center; */
+    color:blue;
+}
+section ~ h1{
+    text-align:center;
+    color:blue;
+}
